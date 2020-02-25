@@ -1,4 +1,4 @@
-##LIST OF PAGES
+## LIST OF PAGES
 
 ### CORE CONCEPTS
 - The Village
