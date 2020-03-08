@@ -11,4 +11,5 @@
 
 ### TEST
 
-[link](Chapter1/creatingacharacter.md)
+[link](Chapter1/CreatingACharacter)
+[link](SpellTables)
