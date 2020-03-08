@@ -2,14 +2,14 @@
 
 ## Traditions
 
-2d6 | Tradition | Amateur | Expert | Master
--------------------------------------------
-1 | Orthodox Wizard
-2 | Shaman
-3 | Druid
-4 | Witch
-5 | Necromancer
-6 | Heterodox Wizard
+1d6 | Tradition | Amateur | Expert | Master |
+----|-----------|---------|--------|--------|
+| 1 | Orthodox Wizard | - | - | - | 
+| 2 | Shaman | - | - | - |
+| 3 | Druid | - | - | - |
+| 4 | Witch | - | - | - |
+| 5 | Necromancer | 🧟 | 🧟 | 🧟 |
+| 6 | Heterodox Wizard | - | - | - |
 
 
 ## Orthodox Wizardry
@@ -20,7 +20,6 @@ Orthodox Wizardry is the magic studied at most wizard schools.
 
 |2d6 | Expertise | Description |
 |----|-----------|-------------|
-
 |2 | Martial or Holy or Leader or Oddball Knowledge | Roll on an alternate table of your choice LINKS |
 |3 | Craftsman Knowledge | Roll on the Craftsman Knowledge table LINK |
 |4 | Potion Recipe | Roll on the Potion Table LINK |
@@ -31,7 +30,7 @@ Orthodox Wizardry is the magic studied at most wizard schools.
 |9 | Familiar | Roll on the Wizard Familiar Table [LINK](#Familiar) |
 |10 | Familiar | Roll on the Wizard Familiar Table [LINK](#Familiar) |
 |11 | Magic Item |
-|12 | Magic Weapon |
+|12 | Magic Weapon | 
 
 
 
@@ -39,12 +38,12 @@ Orthodox Wizardry is the magic studied at most wizard schools.
 
 |2d6 | Spell Name | Ingredients | Speed | Effects |
 |----|------------|-------------|-------|-------- |
-|2 | Fireball | :heart: :black_heart: | 6 | Deal [SUM] damage in an area. |
-|3 | Forcefield | :purple_heart: :blue_heart: | 2 | Create an impassable wall or shield with [SUM] Health and [DICE] Resistance |
+|2 | Fireball | ❤️ 🖤 | 6 | Deal [SUM] damage in an area. |
+|3 | Forcefield | 💜 💙 | 2 | Create an impassable wall or shield with [SUM] Health and [DICE] Resistance |
 |4 | NAME | Ingredients | Speed | Effects |
 |5 | NAME | Ingredients | Speed | Effects |
-|6 | Sleep | :purple_heart: :black_heart: | 8 | All characters in an area lose [SUM] energy. |
-|7 | Magic Missile | :purple_heart: | 3 | Fire [SUM] magic missiles, 1 per second, which deal 1 damage each |
+|6 | Sleep | 💜 🖤 | 8 | All characters in an area lose [SUM] energy. |
+|7 | Magic Missile | 💜 | 3 | Fire [SUM] magic missiles, 1 per second, which deal 1 damage each |
 
 
 #### Familiar
