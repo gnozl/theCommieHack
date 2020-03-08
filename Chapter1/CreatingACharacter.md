@@ -1,7 +1,7 @@
 ### CREATING A CHARACTER
 
 1. Roll Species
-2. Roll Personality
+2. Roll Personality & looks
 3. Roll Class
 4. Roll Class Traits
 5. Roll Ability Scores

@@ -11,4 +11,4 @@
 
 ### TEST
 
-[link](/creatingacharacter.md)
+[link](Chapter1/creatingacharacter.md)
