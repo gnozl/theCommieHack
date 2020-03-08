@@ -21,21 +21,21 @@ Orthodox Wizardry is the magic studied at most wizard schools.
 |2d6 | Expertise | Description |
 |----|-----------|-------------|
 
-|2 | Martial or Holy or Leader or Oddball Knowledge
-|3 | Craftsman Knowledge
-|4 | Potion Recipe
-|5 | Potion Recipe
-|6 | Orthodox Spell
-|7 | Orthodox Spell
-|8 | Random Spell
-|9 | Familiar
-|10 | Familiar
-|11 | Magic Item 
-|12 | Magic Weapon
+|2 | Martial or Holy or Leader or Oddball Knowledge | Roll on an alternate table of your choice LINKS |
+|3 | Craftsman Knowledge | Roll on the Craftsman Knowledge table LINK |
+|4 | Potion Recipe | Roll on the Potion Table LINK |
+|5 | Potion Recipe | Roll on the Potion Table LINK |
+|6 | Orthodox Spell | Roll on the Orthodox Spell Table [LINK](#Orthodox-Spells) |
+|7 | Orthodox Spell | Roll on the Orthodox Spell Table [LINK](#Orthodox-Spells) |
+|8 | Random Spell | Roll on the Random Spell Table LINK |
+|9 | Familiar | Roll on the Wizard Familiar Table [LINK](#Familiar) |
+|10 | Familiar | Roll on the Wizard Familiar Table [LINK](#Familiar) |
+|11 | Magic Item |
+|12 | Magic Weapon |
 
 
 
-#### Spells
+#### Orthodox Spells
 
 |2d6 | Spell Name | Ingredients | Speed | Effects |
 |----|------------|-------------|-------|-------- |
@@ -45,3 +45,15 @@ Orthodox Wizardry is the magic studied at most wizard schools.
 |5 | NAME | Ingredients | Speed | Effects |
 |6 | Sleep | :purple_heart: :black_heart: | 8 | All characters in an area lose [SUM] energy. |
 |7 | Magic Missile | :purple_heart: | 3 | Fire [SUM] magic missiles, 1 per second, which deal 1 damage each |
+
+
+#### Familiar
+
+| 2d6 | Familiar | Description |
+|-----|----------|-------------|
+| 2   | Dragon   | it's a dragon |
+| 3   | Djinn    | it's a genie  |
+| 4   | Phoenix  | it's a phoenix|
+| 5   | Sprite   | Wisp / Faerie |
+| 6   | Imp      | It can fly    |
+| 7   | Imp      | It can't fly  |
