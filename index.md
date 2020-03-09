@@ -11,5 +11,7 @@
 
 ### TEST
 
-[link](Chapter1/CreatingACharacter)
-[link](SpellTables)
+[Creating a Character](Chapter1/CreatingACharacter)
+
+[Orthodox Wizard](OrthdoxWizard)
+
